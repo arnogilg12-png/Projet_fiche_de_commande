@@ -1,0 +1,12 @@
+const nom_du_client = "awa";
+const nom_produit = "ordinateur";
+const prix_unitaire = 250000;
+let quantite = 2;
+let frais_livraison = 5000;
+let taux_tva = 18%;
+console.log("nom_client :",nom_du_client);
+console.log("nom_produit :",nom_produit);
+console.log("prix_unitaire :",prix_unitaire);
+console.log("quantite :",quantite);
+console.log("frais_livraison :",frais_livraison);
+console.log("taux_tva :",taux_tva);
